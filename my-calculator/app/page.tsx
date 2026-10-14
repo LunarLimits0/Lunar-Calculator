@@ -11,10 +11,10 @@ export default function HomePage() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-2xl w-full">
           <Link href="/calculator" className="p-4 bg-slate-900 border border-slate-800 hover:border-blue-500 rounded-xl transition-colors font-bold text-lg">Arithmetic</Link>
-          <Link href="/trigonometry" className="p-4 bg-slate-900 border border-slate-800 hover:border-emerald-500 rounded-xl transition-colors font-bold text-lg">trig</Link>
-          <Link href="/shapes" className="p-4 bg-slate-900 border border-slate-800 hover:border-purple-500 rounded-xl transition-colors font-bold text-lg">shapes</Link>
-          <Link href="/roots" className="p-4 bg-slate-900 border border-slate-800 hover:border-orange-500 rounded-xl transition-colors font-bold text-lg">roots and powers</Link>
-          <Link href="/random" className="p-4 bg-slate-900 border border-slate-800 hover:border-pink-500 rounded-xl transition-colors font-bold text-lg sm:col-span-2">randomizer</Link>
+          <Link href="/trigonometry" className="p-4 bg-slate-900 border border-slate-800 hover:border-emerald-500 rounded-xl transition-colors font-bold text-lg">Trigonometry</Link>
+          <Link href="/shapes" className="p-4 bg-slate-900 border border-slate-800 hover:border-purple-500 rounded-xl transition-colors font-bold text-lg">Shapes</Link>
+          <Link href="/roots" className="p-4 bg-slate-900 border border-slate-800 hover:border-orange-500 rounded-xl transition-colors font-bold text-lg">Roots and Powers</Link>
+          <Link href="/random" className="p-4 bg-slate-900 border border-slate-800 hover:border-pink-500 rounded-xl transition-colors font-bold text-lg sm:col-span-2">Randomizer</Link>
         </div>
       </main>
 
